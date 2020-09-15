@@ -3,6 +3,10 @@ body {
     color: blue;
     font-size: 16px;
     text-align: left;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
 
+}
+
+.foto {
+    size: 30px;
 }
