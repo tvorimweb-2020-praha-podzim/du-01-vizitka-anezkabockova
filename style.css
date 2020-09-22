@@ -1,8 +1,7 @@
 body {
     background-color: #FFFFF6;
     color: #011B4A;
-    font-size: 18px;
-    text-align: left;
+    font-size: 110%;
     font-family: 'Raleway', sans-serif;
     margin: 0px 300px 0 300px;
     
@@ -12,7 +11,6 @@ h1 {
     text-align: center;
     font-weight: bold;
     margin: 50px 20px 20px 20px;
-    font-size: 50px;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -36,11 +34,11 @@ p {
     color: #011B4A;
     margin: 0;
     line-height: 2;
-    font-size: 16px;
     font-weight: bold;
 }
 
 a {
+    font-weight: bold;
     text-decoration: none;
 }
 
@@ -48,4 +46,3 @@ a:link,
 a:visited {
     color: #011B4A;
 }
-    
